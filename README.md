@@ -22,7 +22,7 @@ Cada estudiante debe agregar su nombre y el enlace de sus repositorios.
 | 9 | CHAMBA LEON, RICHARD |
 | 10 | CORDOVA PEREZ, ANDERSON RODRIGO |
 | 11 | DELGADO ESTRADA, ANTONY LUCIANO |
-| 12 | DIOSES RAZURI, JOHAN ALEJANDRO |
+| 12 | DIOSES RAZURI, JOHAN ALEJANDRO | https://github.com/johandiosesrazuri-hash/JDioses-Razuri.git 
 | 13 | FACUNDO PINTADO, LEONARDO JEAN PIERRE |
 | 14 | FLORES GARCIA, GRETELL MARIA |
 | 15 | GAMBOA PACHERRES, CESAR JESUS |
